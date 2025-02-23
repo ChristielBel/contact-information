@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contact Information</string>
+
+
+    <string name="change">Изменить</string>
+    <string name="add">Добавить</string>
+    <string name="come_back">Вернуться</string>
+
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="patronymic">Отчество</string>
+    <string name="phone">Телефон</string>
+    <string name="save">Сохранить</string>
+</resources>
